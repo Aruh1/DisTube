@@ -76,7 +76,7 @@
     "@babel/preset-typescript": "^7.18.6",
     "@commitlint/cli": "^17.3.0",
     "@commitlint/config-conventional": "^17.3.0",
-    "@discordjs/voice": "^0.14.0",
+    "@discordjs/voice": "^0.16.0",
     "@distubejs/docgen": "distubejs/docgen",
     "@types/jest": "^29.2.4",
     "@types/node": "^20.4.2",
